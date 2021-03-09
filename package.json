@@ -1,6 +1,6 @@
 {
   "name": "sml-1.1",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "du an node js",
   "main": "index.js",
   "scripts": {
